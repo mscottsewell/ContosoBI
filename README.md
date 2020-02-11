@@ -4,5 +4,5 @@ For a quick view of the types of reports in this asses see: Screenshots of Sewel
 
 Download the files from this repository and then open the Instructions for Excel-based PowerBI Dashboard Setup.docx file.
 
-As soon as you download the files, rename the "SewellSample" portion of the filenames to match your environment name.
-e.g. **SewellSample** - Dynamics Analytics.pbix => **Fabrikam365** - Dynamics Analytics.pbix
+As soon as you download the files, rename the "Contoso" portion of the filenames to match your environment name.
+e.g. **Contoso** - Dynamics Analytics.pbix => **Fabrikam365** - Dynamics Analytics.pbix
