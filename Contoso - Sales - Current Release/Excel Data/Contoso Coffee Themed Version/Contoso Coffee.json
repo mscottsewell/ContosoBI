@@ -1830,7 +1830,7 @@
             }
         }
     },
-    "foreground": "#FFFFFF",
+    "foreground": "#000000",
     "foregroundNeutralSecondary": "#2F2F2F",
 	"backgroundLight": "#dcd8d2",
     "foregroundNeutralTertiary": "#888787",
