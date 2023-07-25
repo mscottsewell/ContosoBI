@@ -1,0 +1,313 @@
+﻿{
+    "name": "Accessible Tidal",
+    "dataColors": [
+        "#0F3D6E",
+        "#1F84FF",
+        "#19423F",
+        "#59A472",
+        "#0F3A69",
+        "#0E94FF",
+        "#0B2623",
+        "#59A472",
+        "#3599B8",
+        "#DFBFBF",
+        "#4AC5BB",
+        "#5F6B6D",
+        "#FB8281",
+        "#F4D25A",
+        "#7F898A",
+        "#A4DDEE",
+        "#FDAB89",
+        "#B687AC",
+        "#28738A",
+        "#A78F8F",
+        "#168980",
+        "#293537",
+        "#BB4A4A",
+        "#B59525",
+        "#475052",
+        "#6A9FB0",
+        "#BD7150",
+        "#7B4F71",
+        "#1B4D5C",
+        "#706060",
+        "#0F5C55",
+        "#1C2325"
+    ],
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#EFEDEC"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#efedec"
+                            }
+                        },
+                        "show": true,
+                        "radius": 15
+                    }
+                ],
+                "visualHeader": [
+                    {
+                        "background": {
+                            "solid": {
+                                "color": "#AD916C"
+                            }
+                        },
+                        "foreground": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "transparency": 0,
+                        "border": {
+                            "solid": {
+                                "color": "#AD916C"
+                            }
+                        }
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "titleFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "valueFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "actionFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "background": {
+                            "solid": {
+                                "color": "#132743"
+                            }
+                        },
+                        "themedBackground": {
+                            "solid": {
+                                "color": "#fffaed"
+                            }
+                        },
+                        "themedTitleFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "themedValueFontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ],
+                "outspace": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "transparency": 0,
+                        "image": {
+                            "name": "",
+                            "scaling": "Normal",
+                            "url": ""
+                        }
+                    }
+                ],
+                "title": [
+                    {
+                        "show": true,
+                        "titleWrap": false,
+                        "fontColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "background": {
+                            "solid": {
+                                "color": "#ad916c"
+                            }
+                        },
+                        "alignment": "left",
+                        "fontSize": 12,
+                        "fontFamily": "Segoe UI Semibold",
+                        "bold": false,
+                        "italic": false,
+                        "underline": false
+                    }
+                ],
+                "outspacePane": [
+                    {
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#b8b5b5"
+                            }
+                        },
+                        "transparency": 0,
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#F1EFED"
+                            }
+                        },
+                        "titleSize": 12,
+                        "headerSize": 9,
+                        "fontFamily": "Segoe UI",
+                        "border": false,
+                        "borderColor": {
+                            "solid": {
+                                "color": "#8c8987"
+                            }
+                        },
+                        "width": 200,
+                        "checkboxAndApplyColor": {
+                            "solid": {
+                                "color": "#F29F10"
+                            }
+                        },
+                        "searchTextSize": 10,
+                        "inputBoxColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        }
+                    }
+                ],
+                "filterCard": [
+                    {
+                        "$id": "Available",
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#f2f1e6"
+                            }
+                        },
+                        "transparency": 0
+                    },
+                    {
+                        "$id": "Applied",
+                        "foregroundColor": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "backgroundColor": {
+                            "solid": {
+                                "color": "#cccbc2"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "dropShadow": [
+                    {
+                        "angle": 45,
+                        "color": {
+                            "solid": {
+                                "color": "#000000"
+                            }
+                        },
+                        "position": "Outer",
+                        "preset": "Custom",
+                        "shadowBlur": 4,
+                        "shadowDistance": 5,
+                        "shadowSpread": 1,
+                        "show": false,
+                        "transparency": 85
+                    }
+                ],
+                "visualHeaderTooltip": [
+                    {
+                        "background": {
+                            "solid": {
+                                "color": "#F8FAF7"
+                            }
+                        },
+                        "themedBackground": {
+                            "solid": {
+                                "color": "#fffaed"
+                            }
+                        },
+                        "themedTitleFontColor": {
+                            "solid": {
+                                "color": "#C7C8D4"
+                            }
+                        },
+                        "titleFontColor": {
+                            "solid": {
+                                "color": "#262735"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "settings": [
+                    {
+                        "allowUseAsTooltip": false,
+                        "allowQnA": false
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#ffffff"
+                            }
+                        },
+                        "transparency": 0,
+                        "image": {
+                            "name": "",
+                            "scaling": "Normal",
+                            "url": ""
+                        }
+                    }
+                ],
+                "displayArea": [
+                    {
+                        "type": "16:9",
+                        "height": 720,
+                        "width": 1280,
+                        "verticalAlignment": "Middle"
+                    }
+                ]
+            }
+        }
+   },    
+    "foreground": "#121212",
+    "background": "#FFFFFF",
+    "foregroundNeutralSecondary": "#6C6966",
+    "backgroundLight": "#E5E0DA",
+    "foregroundNeutralTertiary": "#ABA7A2",
+    "backgroundNeutral": "#C6C2BE",
+    "tableAccent": "#4E9466",
+    "maximum": "#0B2F54",
+    "center": "#59A472",
+    "minimum": "#0E94FF",
+    "bad": "#0F3D6E",
+    "neutral": "#186DD5",
+    "good": "#46835A"
+}
