@@ -63,7 +63,7 @@
                     {
                         "color": {
                             "solid": {
-                                "color": "#efedec"
+                                "color": "#DDDDDD"
                             }
                         },
                         "show": true,
@@ -782,7 +782,7 @@
                 ],
                 "legend": [
                     {
-                        "show": false,
+                        "show": true,
                         "position": "Top",
                         "showTitle": true,
                         "labelColor": {
@@ -861,7 +861,7 @@
                             }
                         },
                         "titleFontSize": 12,
-                        "titleFontFamily": "wf_standard-font, helvetica, arial, sans-serif",
+                        "titleFontFamily": "Segoe UI Semibold",
                         "titleBold": false,
                         "titleItalic": false,
                         "titleUnderline": false,
@@ -1559,6 +1559,11 @@
         },
         "keyDriversVisual": {
             "*": {
+                "title": [
+                    {
+                        "text": "Influencers"
+                    }
+                ],
                 "keyDrivers": [
                     {
                         "allowKeyDrivers": true,
@@ -1572,7 +1577,7 @@
                     {
                         "primaryColor": {
                             "solid": {
-                                "color": "#c95019"
+                                "color": "#BDA789"
                             }
                         },
                         "primaryFontColor": {
@@ -1582,7 +1587,7 @@
                         },
                         "secondaryColor": {
                             "solid": {
-                                "color": "#2c3e8e"
+                                "color": "#BBCDA8"
                             }
                         },
                         "secondaryFontColor": {
@@ -1592,7 +1597,7 @@
                         },
                         "canvasColor": {
                             "solid": {
-                                "color": "#0d2241"
+                                "color": "#FFFFFF"
                             }
                         },
                         "fontColor": {
@@ -1606,68 +1611,14 @@
                     {
                         "defaultColor": {
                             "solid": {
-                                "color": "#12239E"
+                                "color": "#CEDAC2"
                             }
                         },
                         "referenceLineColor": {
                             "solid": {
-                                "color": "#E66C37"
+                                "color": "#4E1A12"
                             }
                         }
-                    }
-                ],
-                "lockAspect": [
-                    {
-                        "show": false
-                    }
-                ],
-                "visualTooltip": [
-                    {
-                        "show": false,
-                        "type": "Canvas",
-                        "fontSize": 12,
-                        "fontFamily": "Segoe UI",
-                        "bold": false,
-                        "italic": false,
-                        "underline": false,
-                        "transparency": 5,
-                        "page": "Auto"
-                    }
-                ],
-                "visualHeader": [
-                    {
-                        "show": true,
-                        "showVisualInformationButton": true,
-                        "showVisualWarningButton": true,
-                        "showVisualErrorButton": true,
-                        "showDrillRoleSelector": true,
-                        "showDrillUpButton": true,
-                        "showDrillToggleButton": true,
-                        "showDrillDownLevelButton": true,
-                        "showDrillDownExpandButton": true,
-                        "showPinButton": true,
-                        "showFocusModeButton": true,
-                        "showFilterRestatementButton": true,
-                        "showSeeDataLayoutToggleButton": true,
-                        "showOptionsMenu": true,
-                        "showTooltipButton": false
-                    }
-                ],
-                "visualHeaderTooltip": [
-                    {
-                        "titleFontColor": {
-                            "solid": {
-                                "color": "#C8C8C8"
-                            }
-                        },
-                        "fontSize": 9,
-                        "fontFamily": "Segoe UI",
-                        "background": {
-                            "solid": {
-                                "color": "#333333"
-                            }
-                        },
-                        "transparency": 5
                     }
                 ]
             }
