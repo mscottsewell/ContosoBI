@@ -1,3 +1,14 @@
+/*
+Before running this script, be sure that the following tables/shortcuts are already in the lakehouse:
+- account
+- contact
+- opportunity
+- team
+- systemuser
+- territory
+- stringmap
+- campaign
+*/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
